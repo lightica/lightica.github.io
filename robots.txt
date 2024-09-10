@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lightica.github.io/sitemap.html.gz
+Sitemap: https://lightica.github.io/app/sitemap.html.gz
+Sitemap: https://lightica.github.io/assets/sitemap.html.gz
+Sitemap: https://lightica.github.io/css/sitemap.html.gz
+Sitemap: https://lightica.github.io/includes/sitemap.html.gz
+Sitemap: https://lightica.github.io/item/sitemap.html.gz
+Sitemap: https://lightica.github.io/src/sitemap.html.gz
